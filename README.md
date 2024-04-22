@@ -38,3 +38,7 @@ Visual Studio Code
 ### 기타 주요 라이브러리
 
 - Lombok
+
+## ERD
+
+![image](https://github.com/yourim0/pds-project/assets/115005341/75bf750d-1d32-43b6-94cc-e202a0076552)
