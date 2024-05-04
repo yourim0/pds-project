@@ -3,11 +3,11 @@
 
 ## 개발 환경
 
-IntelliJ
-Postman
-GitHub
-DBeaver
-Visual Studio Code
+- IntelliJ
+- Postman
+- GitHub
+- DBeaver
+- Visual Studio Code
 
 ## 사용 기술
 
@@ -31,7 +31,7 @@ Visual Studio Code
 ### 프론트엔드
 
 - Nuxt.js
-- vue.js
+- Vue.js
 - Vuetify
 - Javascript
 
